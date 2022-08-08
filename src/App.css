@@ -1,0 +1,27 @@
+#heading{
+  text-align: center;
+  border-style: inset;
+  /* border-color: rgb(255, 0, 0); */
+}
+.container{
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-family: 'The Nautigal', cursive;
+  padding: 71px;
+}
+.container p{
+  border-style: inset;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+.footer{
+  text-align: center;
+}
+
+#img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -4%;
+  width: 30%;
+}
