@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
-import Info from './Components/Info';
+import Info from './Components/Info/Info';
 import Footer from './Components/Footer/Footer';
 import img1 from './images/dogo.jpg'
 
