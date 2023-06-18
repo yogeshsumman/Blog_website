@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="navbar fixed-top navbar-expand-lg bg-light">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#">Navbar</a>
+        <a className="navbar-brand" href="#">Savage Insights</a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -27,9 +27,6 @@ export default function Navbar() {
                 <li><hr className="dropdown-divider"/></li>
                 <li><a className="dropdown-item" href="#">Something else here</a></li>
               </ul>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link disabled">Disabled</a>
             </li>
           </ul>
           <form className="d-flex" role="search">
